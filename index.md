@@ -62,4 +62,17 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 </tr>
 
+<tr>
+<td markdown="1">
+
+<img src="figs/nil_etc.jpg"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Velho, Silva, Novello, [Immersive Visualization of the Classical Non-Euclidean Spaces using Real-Time Ray Tracing in VR](https://doi.org/10.20380/GI2020.42), Graphics Interface 2020)
+
+</td>
+</tr>
+
 </table>
