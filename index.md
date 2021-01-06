@@ -2,10 +2,10 @@
 <tr>
 <td markdown="1">
 
-<img src="figs/photo.jpg" width="1000"/>
+<img src="figs/photo.jpg"/>
 
 </td>
-<td markdown="1">
+<td markdown="1" width="70%">
 
 I'm a Researcher in my second Postdoc at [PUC-Rio](https://www.puc-rio.br/english/ "PUC-Rio's Homepage"), supervised by [Hélio Lopes](http://www-di.inf.puc-rio.br/~lopes/ "Hélio Lopes's Homepage").
 
@@ -22,6 +22,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 ## 2020
 
 <table>
+
 <tr>
 <td markdown="1">
 
@@ -30,8 +31,22 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Novello, Lopes, Velho, [Proceduray - A light-weight engine for procedural primitive ray tracing](https://arxiv.org/abs/2012.10357 "PUC-Rio's Homepage"), Arxiv
+### Silva, Novello, Lopes, Velho, [Proceduray - A light-weight engine for procedural primitive ray tracing](https://arxiv.org/abs/2012.10357), Arxiv
 
 </td>
 </tr>
+
+<tr>
+<td markdown="1">
+
+<img src="figs/non_euclidean_path_tracer.png"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Velho, [Global Illumination of Non-Euclidean Spaces](https://doi.org/10.1016/j.cag.2020.09.014), Computers & Graphics, [Preprint](https://arxiv.org/abs/2003.11133)
+
+</td>
+</tr>
+
 </table>
