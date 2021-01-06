@@ -17,7 +17,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </tr>
 </table>
 
-# Publications
+# Selected Publications
 
 ## 2020
 
@@ -77,7 +77,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 
 </table>
 
-## 2020
+## 2019
 
 <table>
 
