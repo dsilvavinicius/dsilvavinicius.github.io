@@ -23,8 +23,12 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 
 <table>
 <tr>
-<td> <img src="figs/proceduray.png"/> </td>
-<td width="60%">
+<td markdown="1">
+
+<img src="figs/proceduray.png"/>
+
+</td>
+<td markdown="1" width="60%">
         
 ## Silva, Novello, Lopes, Velho, [Proceduray - A light-weight engine for procedural primitive ray tracing](https://arxiv.org/abs/2012.10357 "PUC-Rio's Homepage"), Arxiv
 
