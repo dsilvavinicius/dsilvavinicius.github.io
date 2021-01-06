@@ -2,7 +2,7 @@
 <tr>
 <td markdown="1">
 
-![alt text](photo.jpg "Vinícius")
+<img src="photo.jpg" width="500" height="500" />
 
 </td>
 <td markdown="1">
