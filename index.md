@@ -5,7 +5,7 @@
 <img src="figs/photo.jpg"/>
 
 </td>
-<td markdown="1" width="70%">
+<td markdown="1" style="text-align: justify" width="80%">
 
 I'm a Researcher in my second Postdoc at [PUC-Rio](https://www.puc-rio.br/english/ "PUC-Rio's Homepage"), supervised by [Hélio Lopes](http://www-di.inf.puc-rio.br/~lopes/ "Hélio Lopes's Homepage").
 
