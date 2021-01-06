@@ -17,3 +17,8 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </tr>
 </table>
 
+# Publications
+
+2020
+
+Test0 | Test1

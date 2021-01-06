@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: Vinícius da Silva
+github:
+  is_project_page: false
