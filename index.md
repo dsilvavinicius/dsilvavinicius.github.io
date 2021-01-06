@@ -49,4 +49,17 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 </tr>
 
+<tr>
+<td markdown="1">
+
+<img src="figs/nil_etc.jpg"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Velho, [Visualization of Nil, Sol, and SL2 geometries](https://doi.org/10.1016/j.cag.2020.07.016), Computers & Graphics, [Preprint](https://www.visgraf.impa.br/Data/RefBib/PS_PDF/cag2020a/Visualization_of_Nil_Sol_SL2_CAG.pdf)
+
+</td>
+</tr>
+
 </table>
