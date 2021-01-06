@@ -11,4 +11,5 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 ![alt text](photo.jpg "Vinícius")
 </td>
 </tr>
+</table>
 
