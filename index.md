@@ -2,7 +2,7 @@
 <tr>
 <td markdown="1">
 
-<img src="photo.jpg" width="500"/>
+<img src="photo.jpg" width="700"/>
 
 </td>
 <td markdown="1">
