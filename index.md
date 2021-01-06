@@ -76,3 +76,22 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </tr>
 
 </table>
+
+## 2020
+
+<table>
+
+<tr>
+<td markdown="1">
+
+<img src="figs/omicron.jpg"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Silva, Esperança, Marroquim, [OMiCroN – Oblique Multipass Hierarchy Creation while Navigating](https://doi.org/10.1016/j.cag.2019.08.016), Computers & Graphics), [Preprint](https://arxiv.org/abs/2006.13266)
+
+</td>
+</tr>
+
+</table>
