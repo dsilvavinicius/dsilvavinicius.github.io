@@ -2,7 +2,7 @@
 <tr>
 <td markdown="1">
 
-<img src="figs/photo.jpg"/>
+<img width="100%" src="figs/photo.jpg"/>
 
 </td>
 <td markdown="1" style="text-align: justify" width="80%">
