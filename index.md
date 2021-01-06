@@ -65,7 +65,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/nil_etc.jpg"/>
+<img src="figs/seifert_grid.png"/>
 
 </td>
 <td markdown="1" width="60%">
