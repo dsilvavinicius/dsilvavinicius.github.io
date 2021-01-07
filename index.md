@@ -4,6 +4,14 @@
 
 <img width="100%" src="figs/photo.jpg"/>
 
+<div align=center>
+
+[<img src="figs/twitter.png" width="32">](https://twitter.com/dsilvavinicius)
+[<img src="figs/youtube.png" width="32">](https://www.youtube.com/dsilvavinicius)
+[<img src="figs/linkedin.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
+
+</div>
+
 </td>
 <td markdown="1" style="text-align: justify" width="80%">
 
@@ -13,22 +21,7 @@ My first Postdoc was at [IMPA](https://impa.br/en_US/ "IMPA's Homepage"), superv
 
 My research interests are mostly related with real-time Computer Graphics, Virtual Reality, Games and Machine Learning. My current focus is Real-time Ray Tracing and its applications in Virtual Reality, Non-euclidean spaces and Differentiable Rendering. I also work with R&D in real-world problems involving Data Science and Machine Learning.
 
-<table>
-<tr>
-<td markdown="1">
-
-[<img src="figs/twitter.png" width="32">](https://twitter.com/dsilvavinicius)
-[<img src="figs/youtube.png" width="32">](https://www.youtube.com/dsilvavinicius)
-[<img src="figs/linkedin.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
-
-</td>
-<td markdown="1" style="text-align:left">
-
 dsilva --dot-- vinicius --at-- gmail --dot-- com
-
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
