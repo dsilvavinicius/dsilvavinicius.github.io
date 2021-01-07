@@ -21,7 +21,7 @@ My first Postdoc was at [IMPA](https://impa.br/en_US/ "IMPA's Homepage"), superv
 
 My research interests are mostly related with real-time Computer Graphics, Virtual Reality, Games and Machine Learning. My current focus is Real-time Ray Tracing and its applications in Virtual Reality, Non-euclidean spaces and Differentiable Rendering. I also work with R&D in real-world problems involving Data Science and Machine Learning.
 
-dsilva --dot-- vinicius --at-- gmail --dot-- com
+**dsilva --dot-- vinicius --at-- gmail --dot-- com**
 
 </td>
 </tr>
