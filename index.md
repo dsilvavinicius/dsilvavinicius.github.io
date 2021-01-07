@@ -70,7 +70,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Velho, Silva, Novello, [Immersive Visualization of the Classical Non-Euclidean Spaces using Real-Time Ray Tracing in VR](https://doi.org/10.20380/GI2020.42), Graphics Interface 2020)
+### Velho, Silva, Novello, [Immersive Visualization of the Classical Non-Euclidean Spaces using Real-Time Ray Tracing in VR](https://doi.org/10.20380/GI2020.42), Graphics Interface 2020
 
 </td>
 </tr>
@@ -83,7 +83,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Velho, [Illustrating Mathematics, chapter Video and Virtual Reality](https://bookstore.ams.org/mbk-135), American Mathematical Society)
+### Novello, Silva, Velho, [Illustrating Mathematics, chapter Video and Virtual Reality](https://bookstore.ams.org/mbk-135), American Mathematical Society
 
 </td>
 </tr>
@@ -115,7 +115,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Esperança, Marroquim, [Concomitant Hierarchy Construction and Rendering of Large Point Clouds](https://doi.org/10.5753/sibgrapi.est.2019.8304), SIBGRAPI 2019, Workshop of Theses and Dissertations)
+### Silva, Esperança, Marroquim, [Concomitant Hierarchy Construction and Rendering of Large Point Clouds](https://doi.org/10.5753/sibgrapi.est.2019.8304), SIBGRAPI 2019, Workshop of Theses and Dissertations
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Velho, Giannella, Lucio, Silva, [VR Tour: Guided Participatory Meta-Narrative for Virtual Reality Exploration](https://www.revistageminis.ufscar.br/index.php/geminis/article/view/463), Revista Geminis)
+### Velho, Giannella, Lucio, Silva, [VR Tour: Guided Participatory Meta-Narrative for Virtual Reality Exploration](https://www.revistageminis.ufscar.br/index.php/geminis/article/view/463), Revista Geminis
 
 </td>
 </tr>
@@ -145,7 +145,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Esperança, [Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies](https://doi.org/10.5220/0004656904300437), Proceedings of the 9th International Conference on Computer Graphics Theory and Applications - Volume 1: GRAPP)
+### Silva, Esperança, [Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies](https://doi.org/10.5220/0004656904300437), Proceedings of the 9th International Conference on Computer Graphics Theory and Applications - Volume 1: GRAPP
 
 </td>
 </tr>
@@ -158,7 +158,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Esperança, [Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies](http://www.fgv.br/emap/sibgrapi-2014/SIBGRAPI2014-WTD-posters.html), SIBGRAPI 2014, Workshop of Theses and Dissertations)
+### Silva, Esperança, [Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies](http://www.fgv.br/emap/sibgrapi-2014/SIBGRAPI2014-WTD-posters.html), SIBGRAPI 2014, Workshop of Theses and Dissertations
 
 </td>
 </tr>
