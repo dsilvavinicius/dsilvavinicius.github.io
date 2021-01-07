@@ -75,6 +75,19 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 </tr>
 
+<tr>
+<td markdown="1">
+
+<img src="figs/illustrating_math.jpg"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Velho, [Illustrating Mathematics, chapter Video and Virtual Reality](https://bookstore.ams.org/mbk-135), American Mathematical Society)
+
+</td>
+</tr>
+
 </table>
 
 ## 2019
@@ -90,6 +103,62 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <td markdown="1" width="60%">
         
 ### Silva, Esperança, Marroquim, [OMiCroN – Oblique Multipass Hierarchy Creation while Navigating](https://doi.org/10.1016/j.cag.2019.08.016), Computers & Graphics), [Preprint](https://arxiv.org/abs/2006.13266)
+
+</td>
+</tr>
+
+<tr>
+<td markdown="1">
+
+<img src="figs/david.png"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Silva, Esperança, Marroquim, [Concomitant Hierarchy Construction and Rendering of Large Point Clouds](https://doi.org/10.5753/sibgrapi.est.2019.8304), SIBGRAPI 2019, Workshop of Theses and Dissertations)
+
+</td>
+</tr>
+
+<tr>
+<td markdown="1">
+
+<img src="figs/jua_joints.png"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Velho, Giannella, Lucio, Silva, [VR Tour: Guided Participatory Meta-Narrative for Virtual Reality Exploration](https://www.revistageminis.ufscar.br/index.php/geminis/article/view/463), Revista Geminis)
+
+</td>
+</tr>
+</table>
+
+## 2014
+
+<table>
+<tr>
+<td markdown="1">
+
+<img src="figs/cloth_ball.png"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Silva, Esperança, [Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies](https://doi.org/10.5220/0004656904300437), Proceedings of the 9th International Conference on Computer Graphics Theory and Applications - Volume 1: GRAPP)
+
+</td>
+</tr>
+
+<tr>
+<td markdown="1">
+
+<img src="figs/funnel.png"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Silva, Esperança, [Lazy Work Stealing for Continuous Hierarchy Traversal on Deformable Bodies](http://www.fgv.br/emap/sibgrapi-2014/SIBGRAPI2014-WTD-posters.html), SIBGRAPI 2014, Workshop of Theses and Dissertations)
 
 </td>
 </tr>
