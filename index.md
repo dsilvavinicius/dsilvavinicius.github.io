@@ -15,18 +15,18 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 
 <table>
 <tr>
-<td markdown="1">
+<td markdown="1" width="32">
 
-[<img src="figs/twitter.png" width="64">](https://twitter.com/dsilvavinicius)
+[<img src="figs/twitter.png">](https://twitter.com/dsilvavinicius)
 
 
 </td>
-<td markdown="1">
+<td markdown="1" width="32">
 
 [<img src="figs/youtube.png" width="64">](https://www.youtube.com/dsilvavinicius)
 
 </td>
-<td markdown="1">
+<td markdown="1" width="32">
 
 [<img src="figs/linkedin.png" width="64"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
 
