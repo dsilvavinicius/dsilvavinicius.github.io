@@ -4,7 +4,7 @@
 
 <img width="100%" src="figs/photo.jpg"/>
 
-<div align=center>
+<div markdown="1" align=center>
 
 [<img src="figs/twitter.png" width="32">](https://twitter.com/dsilvavinicius)
 [<img src="figs/youtube.png" width="32">](https://www.youtube.com/dsilvavinicius)
