@@ -57,7 +57,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Velho, [Global Illumination of Non-Euclidean Spaces](https://doi.org/10.1016/j.cag.2020.09.014), Computers & Graphics, [Preprint](https://arxiv.org/abs/2003.11133).
+### Novello, Silva, Velho, [Global Illumination of Non-Euclidean Spaces](https://doi.org/10.1016/j.cag.2020.09.014), Computers & Graphics. [Preprint](https://arxiv.org/abs/2003.11133).
 
 </td>
 </tr>
@@ -70,7 +70,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Velho, [Visualization of Nil, Sol, and SL2 geometries](https://doi.org/10.1016/j.cag.2020.07.016), Computers & Graphics, [Preprint](https://www.visgraf.impa.br/Data/RefBib/PS_PDF/cag2020a/Visualization_of_Nil_Sol_SL2_CAG.pdf).
+### Novello, Silva, Velho, [Visualization of Nil, Sol, and SL2 geometries](https://doi.org/10.1016/j.cag.2020.07.016), Computers & Graphics. [Preprint](https://www.visgraf.impa.br/Data/RefBib/PS_PDF/cag2020a/Visualization_of_Nil_Sol_SL2_CAG.pdf).
 
 </td>
 </tr>
@@ -115,7 +115,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Esperança, Marroquim, [OMiCroN – Oblique Multipass Hierarchy Creation while Navigating](https://doi.org/10.1016/j.cag.2019.08.016), Computers & Graphics), [Preprint](https://arxiv.org/abs/2006.13266).
+### Silva, Esperança, Marroquim, [OMiCroN – Oblique Multipass Hierarchy Creation while Navigating](https://doi.org/10.1016/j.cag.2019.08.016), Computers & Graphics). [Preprint](https://arxiv.org/abs/2006.13266).
 
 </td>
 </tr>
