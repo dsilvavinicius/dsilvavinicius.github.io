@@ -9,6 +9,7 @@
 [<img src="figs/twitter.png" width="32">](https://twitter.com/dsilvavinicius)
 [<img src="figs/youtube.png" width="32">](https://www.youtube.com/dsilvavinicius)
 [<img src="figs/linkedin.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
+[<img src="figs/researchgate.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
 
 </div>
 
@@ -31,6 +32,25 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </table>
 
 # Selected Publications
+
+## 2021
+
+<table>
+
+<tr>
+<td markdown="1">
+
+<img src="figs/julia.png"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Silva, Novello, Lopes, Velho, [Real-time rendering of complex fractals](https://arxiv.org/abs/2102.01747), Arxiv.
+
+</td>
+</tr>
+
+</table>
 
 ## 2020
 
