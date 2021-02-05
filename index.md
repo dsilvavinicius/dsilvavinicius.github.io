@@ -9,7 +9,7 @@
 [<img src="figs/twitter.png" width="32">](https://twitter.com/dsilvavinicius)
 [<img src="figs/youtube.png" width="32">](https://www.youtube.com/dsilvavinicius)
 [<img src="figs/linkedin.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
-[<img src="figs/researchgate.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
+[<img src="figs/researchgate.png" width="32"> ](https://www.researchgate.net/profile/Vinicius_Silva50) 
 
 </div>
 
