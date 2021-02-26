@@ -2,14 +2,14 @@
 <tr>
 <td markdown="1">
 
-<img width="100%" src="figs/photo.png"/>
+<img width="100%" src="figs/compressed/photo.png"/>
 
 <div markdown="1" align=center>
 
-[<img src="figs/twitter.png" width="32">](https://twitter.com/dsilvavinicius)
-[<img src="figs/youtube.png" width="32">](https://www.youtube.com/dsilvavinicius)
-[<img src="figs/linkedin.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
-[<img src="figs/researchgate.png" width="32"> ](https://www.researchgate.net/profile/Vinicius_Silva50) 
+[<img src="figs/compressed/twitter.png" width="32">](https://twitter.com/dsilvavinicius)
+[<img src="figs/compressed/youtube.png" width="32">](https://www.youtube.com/dsilvavinicius)
+[<img src="figs/compressed/linkedin.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
+[<img src="figs/compressed/researchgate.png" width="32"> ](https://www.researchgate.net/profile/Vinicius_Silva50) 
 
 </div>
 
@@ -40,7 +40,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/julia_cut.png"/>
+<img src="figs/compressed/julia_cut.png"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -53,7 +53,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/rayvr.png"/>
+<img src="figs/compressed/rayvr.png"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -72,7 +72,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/proceduray.png"/>
+<img src="figs/compressed/proceduray.png"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -85,7 +85,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/non_euclidean_path_tracer.png"/>
+<img src="figs/compressed/non_euclidean_path_tracer.png"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -98,7 +98,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/nil_etc.jpg"/>
+<img src="figs/compressed/nil_etc.jpg"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -111,7 +111,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/seifert_grid.png"/>
+<img src="figs/compressed/seifert_grid.png"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -124,7 +124,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/illustrating_math.jpg"/>
+<img src="figs/compressed/illustrating_math.jpg"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -143,7 +143,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/omicron.jpg"/>
+<img src="figs/compressed/omicron.jpg"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -156,7 +156,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/david.png"/>
+<img src="figs/compressed/david.png"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -169,7 +169,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/jua_joints.png"/>
+<img src="figs/compressed/jua_joints.png"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -186,7 +186,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/cloth_ball.png"/>
+<img src="figs/compressed/cloth_ball.png"/>
 
 </td>
 <td markdown="1" width="60%">
@@ -199,7 +199,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
-<img src="figs/funnel.png"/>
+<img src="figs/compressed/funnel.png"/>
 
 </td>
 <td markdown="1" width="60%">
