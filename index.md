@@ -2,7 +2,7 @@
 <tr>
 <td markdown="1">
 
-<img width="100%" src="figs/photo.jpg"/>
+<img width="100%" src="figs/photo.png"/>
 
 <div markdown="1" align=center>
 
@@ -45,7 +45,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Novello, Lopes, Velho, [Real-time rendering of complex fractals](https://arxiv.org/abs/2102.01747), Arxiv.
+### Silva, Novello, Lopes, Velho, Real-time rendering of complex fractals, Ray Tracing Gems 2, Siggraph 2021, To appear.
 
 </td>
 </tr>
@@ -55,6 +55,19 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 ## 2020
 
 <table>
+
+<tr>
+<td markdown="1">
+
+<img src="figs/rayvr.png"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Silva, Velho, Ray-VR: Ray Tracing Virtual Reality in Falcor, GPU Technology Conference (GTC) 2021, To appear.
+
+</td>
+</tr>
 
 <tr>
 <td markdown="1">
