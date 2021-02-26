@@ -20,7 +20,7 @@ I'm a Researcher in my second Postdoc at [PUC-Rio](https://www.puc-rio.br/englis
 
 My first Postdoc was at [IMPA](https://impa.br/en_US/ "IMPA's Homepage"), supervised by [Luiz Velho](http://lvelho.impa.br/ "Luiz Velho's Homepage").
 
-My research interests are mostly related with real-time Computer Graphics, Virtual Reality, Games and Machine Learning. My current focus is Real-time Ray Tracing and its applications in Virtual Reality, Non-euclidean spaces and Differentiable Rendering. I also work with R&D in real-world problems involving Data Science and Machine Learning.
+My research interests are mostly related with real-time Computer Graphics, Virtual Reality, Games and Machine Learning. My current focus is Real-time Ray Tracing and its applications in Procedural Geometry, Deep Implicits, Non-euclidean spaces, and Virtual Reality. I also work with R&D in real-world problems involving Data Science and Machine Learning.
 
 ---
 **dsilva --dot-- vinicius --at-- gmail --dot-- com**
@@ -45,16 +45,10 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Novello, Lopes, Velho, Real-time rendering of complex fractals, Ray Tracing Gems 2, Siggraph 2021, To appear.
+### Silva, Novello, Lopes, Velho, Real-time rendering of complex fractals, Ray Tracing Gems 2, SIGGRAPH 2021, To appear.
 
 </td>
 </tr>
-
-</table>
-
-## 2020
-
-<table>
 
 <tr>
 <td markdown="1">
@@ -68,6 +62,12 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 
 </td>
 </tr>
+
+</table>
+
+## 2020
+
+<table>
 
 <tr>
 <td markdown="1">
