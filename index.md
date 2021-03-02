@@ -63,6 +63,19 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 </tr>
 
+<tr>
+<td markdown="1">
+
+<img src="figs/compressed/nil_etc.jpg"/>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Velho, Intrinsic Visualization in the Thurston’s Geometries, 33o Colóquio Brasileiro de Matemática, To appear.
+
+</td>
+</tr>
+
 </table>
 
 ## 2020
