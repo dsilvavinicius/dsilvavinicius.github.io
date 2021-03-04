@@ -45,7 +45,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Novello, Lopes, Velho, Real-time rendering of complex fractals, Ray Tracing Gems 2, SIGGRAPH 2021, To appear.
+### Silva, Novello, Lopes, Velho, Real-time Rendering of Complex Fractals, Ray Tracing Gems 2, SIGGRAPH 2021, To appear.
 
 </td>
 </tr>
