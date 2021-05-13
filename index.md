@@ -52,6 +52,20 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 
 </td>
 </tr>
+<tr>
+<td markdown="1">
+
+<a href="figs/highres/mandel.png"><img src="figs/compressed/mandel.png"/></a>
+
+</td>
+<td>
+
+## [Proceduray](https://www.visgraf.impa.br/ray-vr/)
+
+### Proceduray is an engine for real-time ray tracing of procedural geometry. Its motivation is the current lack of mid-level abstraction tools for scenes with primitives involving intersection shaders. Those scenes impose strict engine design choices, since they need flexibility in the shader table setup. Proceduray aims to provide a fair tradeoff between that flexibility and productivity. It also aims to be didactic. Shader table behaviour can be very confusing because parameters for indexing it come from different parts of a system, involving both host and device code. This is different in essence than ray tracing triangle meshes (which uses a builtin intersection shader for all objects) or rendering with the traditional graphics or compute pipelines.
+
+</td>
+</tr>
 </table>
 
 # Selected Publications
