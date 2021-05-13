@@ -38,6 +38,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <tr>
 <td markdown="1">
 
+<div>
 <table>
 <tr>
 <td markdown="1">
@@ -57,6 +58,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 </tr>
 </table>
+</div>
 
 <td markdown="1" width="60%">
         
