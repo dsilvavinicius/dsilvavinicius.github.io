@@ -31,6 +31,42 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </tr>
 </table>
 
+# Projects
+
+<table>
+
+<tr>
+<td markdown="1">
+
+<table>
+<tr>
+<td markdown="1">
+<img src="figs/compressed/rayvr_project1.jpg"/>
+</td>
+<td markdown="1">
+<img src="figs/compressed/rayvr_project2.png"/>
+</td>
+</tr>
+<tr>
+<td markdown="1">
+<img src="figs/compressed/rayvr_project3.jpg"/>
+</td>
+<td markdown="1">
+<img src="figs/compressed/rayvr_project4.jpg"/>
+</td>
+</td>
+</tr>
+</table>
+
+<td markdown="1" width="60%">
+        
+### Ray-VR. This project investigates the use of recent capabilities of modern GPU's that implement Ray Tracing in real-time . It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction.
+
+</td>
+</tr>
+
+</table>
+
 # Selected Publications
 
 ## 2021
@@ -58,7 +94,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Velho, Ray-VR: Ray Tracing Virtual Reality in Falcor, GPU Technology Conference (GTC) 2021, To appear.
+### Silva, Velho, [Ray-VR: Ray Tracing Virtual Reality in Falcor](https://gtc21.event.nvidia.com/media/Ray-VR%3A%20Ray%20Tracing%20Virtual%20Reality%20in%20Falcor%20%5BP31198%5D/1_5ji4asvk), GPU Technology Conference (GTC) 2021.
 
 </td>
 </tr>
@@ -71,7 +107,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Velho, Intrinsic Visualization in the Thurston’s Geometries, 33o Colóquio Brasileiro de Matemática, To appear.
+### Novello, Silva, Velho, Intrinsic Visualization in the Thurston’s Geometries, 33rd Brazilian Mathematics Colloquium, To appear.
 
 </td>
 </tr>
