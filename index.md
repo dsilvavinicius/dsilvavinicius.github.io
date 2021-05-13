@@ -31,12 +31,28 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </tr>
 </table>
 
-Projects | Projects
---- | ---
-![alt text]("./figs/compressed/rayvr_project1.jpg" "Logo Title Text 1") | ![alt text]("./figs/compressed/rayvr_project2.png" "Logo Title Text 1")
-![alt text]("./figs/compressed/rayvr_project3.jpg" "Logo Title Text 1") | ![alt text]("./figs/compressed/rayvr_project4.jpg" "Logo Title Text 1")
+# Projects
 
-### Ray-VR. This project investigates the use of recent capabilities of modern GPU's that implement Ray Tracing in real-time . It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction
+<table>
+<tr>
+<td markdown="1">
+
+
+&nbsp; | &nbsp;
+--- | ---
+<img src="figs/compressed/rayvr_project1.jpg"/> | <img src="figs/compressed/rayvr_project2.png"/>
+<img src="figs/compressed/rayvr_project3.jpg"/> | <img src="figs/compressed/rayvr_project4.jpg"/>
+
+</td>
+<td markdown="1" width="60%">
+
+## Ray-VR
+
+This project investigates the use of recent capabilities of modern GPU's that implement Ray Tracing in real-time . It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction
+
+</td>
+</tr>
+</table>
 
 # Selected Publications
 
