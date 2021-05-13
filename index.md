@@ -58,7 +58,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <a href="figs/highres/mandel.png"><img src="figs/compressed/mandel.png"/></a>
 
 </td>
-<td>
+<td markdown="1" width="60%">
 
 ## [Proceduray](https://www.visgraf.impa.br/ray-vr/)
 
