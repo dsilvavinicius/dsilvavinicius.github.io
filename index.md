@@ -36,8 +36,7 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 <table>
 
 <tr>
-<td markdown="1">
-
+<td>
 <table>
 <tr>
 <td markdown="1">
