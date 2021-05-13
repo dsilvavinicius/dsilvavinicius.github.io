@@ -46,9 +46,9 @@ My research interests are mostly related with real-time Computer Graphics, Virtu
 </td>
 <td markdown="1" width="60%">
 
-## Ray-VR
+## [Ray-VR](https://www.visgraf.impa.br/ray-vr/)
 
-This project investigates the use of recent capabilities of modern GPU's that implement Ray Tracing in real-time. It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction. It also explores the use of Ray Tracing for procedural geometry rendering.
+### This project investigates the use of recent capabilities of modern GPU's that implement Ray Tracing in real-time. It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction. It also explores the use of Ray Tracing for procedural geometry rendering.
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/julia_cut.png"/>
+<a href="figs/highres/julia_cut.png"><img src="figs/compressed/julia_cut.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -76,7 +76,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/rayvr.png"/>
+<a href="figs/highres/rayvr.png"><img src="figs/compressed/rayvr.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -89,7 +89,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/nil_etc.jpg"/>
+<a href="figs/highres/nil_etc.jpg"><img src="figs/compressed/nil_etc.jpg"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -108,7 +108,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/proceduray.png"/>
+<a href="figs/highres/proceduray.png"><img src="figs/compressed/proceduray.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -121,7 +121,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/non_euclidean_path_tracer.png"/>
+<a href="figs/highres/non_euclidean_path_tracer.png"><img src="figs/compressed/non_euclidean_path_tracer.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -134,7 +134,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/nil_etc.jpg"/>
+<a href="figs/highres/nil_etc.jpg"><img src="figs/compressed/nil_etc.jpg"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -147,7 +147,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/seifert_grid.png"/>
+<a href="figs/highres/seifert_grid.png"><img src="figs/compressed/seifert_grid.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -160,7 +160,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/illustrating_math.jpg"/>
+<a href="figs/highres/illustrating_math.jpg"><img src="figs/compressed/illustrating_math.jpg"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -179,7 +179,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/omicron.jpg"/>
+<a href="figs/highres/omicron.jpg"><img src="figs/compressed/omicron.jpg"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -192,7 +192,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/david.png"/>
+<a href="figs/highres/david.png"><img src="figs/compressed/david.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -205,7 +205,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/jua_joints.png"/>
+<a href="figs/highres/jua_joints.png"><img src="figs/compressed/jua_joints.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -222,7 +222,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/cloth_ball.png"/>
+<a href="figs/highres/cloth_ball.png"><img src="figs/compressed/cloth_ball.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -235,7 +235,7 @@ This project investigates the use of recent capabilities of modern GPU's that im
 <tr>
 <td markdown="1">
 
-<img src="figs/compressed/funnel.png"/>
+<a href="figs/highres/funnel.png"><img src="figs/compressed/funnel.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
