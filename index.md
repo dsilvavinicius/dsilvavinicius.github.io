@@ -20,7 +20,7 @@ I'm a Researcher in my second Postdoc at [PUC-Rio](https://www.puc-rio.br/englis
 
 My first Postdoc was at [IMPA](https://impa.br/en_US/ "IMPA's Homepage"), supervised by [Luiz Velho](http://lvelho.impa.br/ "Luiz Velho's Homepage").
 
-My research interests are mostly related with real-time Computer Graphics, Games, Virtual Reality and Machine Learning. My current focus is Real-time Ray Tracing and its applications in Procedural Geometry, Neural Implicits, Non-euclidean spaces, and Virtual Reality. I also work with R&D in real-world problems involving Data Science and Machine Learning.
+My research interests are mostly related with real-time Computer Graphics, Games, Virtual Reality and Machine Learning. My current focus is Real-time Ray Tracing and its applications on Procedural Geometry, Neural Implicits, Non-euclidean spaces, and Virtual Reality. I also work with R&D in real-world problems involving Data Science and Machine Learning.
 
 ---
 **dsilva --dot-- vinicius --at-- gmail --dot-- com**
