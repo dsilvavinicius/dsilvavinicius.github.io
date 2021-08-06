@@ -48,7 +48,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 
 ## [Ray-VR](https://www.visgraf.impa.br/ray-vr/)
 
-### This project investigates the use of recent capabilities of modern GPU's that implement Ray Tracing in real-time. It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction. One of the objectives is to develop new methods for intuitive exploration of landscapes featuring non-trivial geometry and topology.
+### This project investigates the use of recent capabilities of modern GPUs that implement Ray Tracing in real-time. It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction. One of the objectives is to develop new methods for intuitive exploration of landscapes featuring non-trivial geometry and topology.
 
 </td>
 </tr>
