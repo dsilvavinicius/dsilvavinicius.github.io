@@ -82,7 +82,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Novello, Lopes, Velho, Real-time Rendering of Complex Fractals, Ray Tracing Gems 2, SIGGRAPH 2021, To appear.
+### Silva, Novello, Lopes, Velho, [Real-time Rendering of Complex Fractals](https://link.springer.com/chapter/10.1007/978-1-4842-7185-8_33), [Ray Tracing Gems 2](https://www.realtimerendering.com/raytracinggems/rtg2/index.html), SIGGRAPH 2021.
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Velho, Intrinsic Visualization in the Thurston’s Geometries, 33rd Brazilian Mathematics Colloquium, To appear.
+### Novello, Silva, Velho, [Intrinsic Visualization in the Thurston’s Geometries](https://www.youtube.com/playlist?list=PLvvfpeSf1IRK29lLgm0QGIDalVzpgHv5t), 33rd Brazilian Mathematics Colloquium. Book to appear.
 
 </td>
 </tr>
