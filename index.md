@@ -113,6 +113,19 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 </tr>
 
+<tr>
+<td markdown="1">
+
+<a href="figs/highres/neural_implicits.png"><img src="figs/compressed/neural_implicits.png"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Schirmer, Silva, Schardong, Novello, Velho, Lopes, Neural Networks for Implicit Representations of 3D Geometry, SIBGRAPI 2021, To appear.
+
+</td>
+</tr>
+
 </table>
 
 ## 2020
