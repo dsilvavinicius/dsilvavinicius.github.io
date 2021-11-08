@@ -46,7 +46,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
 
-## [Ray-VR](https://www.visgraf.impa.br/ray-vr/)
+## Ray-VR
 
 ### This project investigates the use of recent capabilities of modern GPUs that implement Ray Tracing in real-time. It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction. One of the objectives is to develop new methods for intuitive exploration of landscapes featuring non-trivial geometry and topology.
 
@@ -82,7 +82,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Novello, Lopes, Velho, [Real-time Rendering of Complex Fractals](https://link.springer.com/chapter/10.1007/978-1-4842-7185-8_33), [Ray Tracing Gems 2](https://www.realtimerendering.com/raytracinggems/rtg2/index.html), SIGGRAPH 2021.
+### Silva, Novello, Lopes, Velho, [Real-time Rendering of Complex Fractals](https://link.springer.com/chapter/10.1007/978-1-4842-7185-8_33), [Ray Tracing Gems 2](https://www.realtimerendering.com/raytracinggems/rtg2/index.html), Apress.
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
         
-### Schirmer, Silva, Schardong, Novello, Velho, Lopes, Neural Networks for Implicit Representations of 3D Geometry, SIBGRAPI 2021, To appear.
+### Schirmer, Schardong, Silva, Novello, Yukimura, Magalhaes, Paz, Lopes, Velho, [Neural Networks for Implicit Representations of 3D Geometry](http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45DPE5L), [Tutorial](https://youtu.be/tvy4IGA_iF8), SIBGRAPI 2021.
 
 </td>
 </tr>
