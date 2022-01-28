@@ -31,44 +31,52 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </tr>
 </table>
 
-# Projects
+# Selected Publications
+
+## 2022
 
 <table>
+
 <tr>
 <td markdown="1">
 
-
-&nbsp; | &nbsp;
---- | ---
-<a href="figs/highres/rayvr_project1.jpg"><img src="figs/compressed/rayvr_project1.jpg"/></a> | <a href="figs/highres/rayvr_project2.png"><img src="figs/compressed/rayvr_project2.png"/></a>
-<a href="figs/highres/rayvr_project3.jpg"><img src="figs/compressed/rayvr_project3.jpg"/></a> | <a href="figs/highres/rayvr_project4.jpg"><img src="figs/compressed/rayvr_project4.jpg"/></a>
+<a href="figs/mip-plicits.JPEG"><img src="figs/mip-plicits.JPEG"/></a>
 
 </td>
 <td markdown="1" width="60%">
-
-## Ray-VR
-
-### This project investigates the use of recent capabilities of modern GPUs that implement Ray Tracing in real-time. It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction. One of the objectives is to develop new methods for intuitive exploration of landscapes featuring non-trivial geometry and topology.
+        
+### Silva, Novello, Schardong, Schirmer, Lopes, Velho, [MIP-plicits: Level of Detail Factorization of Neural Implicit Sphere Tracing](https://dsilvavinicius.github.io/mip-plicits/), Arxiv.
 
 </td>
 </tr>
+
 <tr>
 <td markdown="1">
 
-<a href="figs/highres/mandel.png"><img src="figs/compressed/mandel.png"/></a>
+<a href="figs/i4d.JPEG"><img src="figs/i4d.JPEG"/></a>
 
 </td>
 <td markdown="1" width="60%">
-
-## [Proceduray](https://github.com/dsilvavinicius/Proceduray)
-
-### Proceduray is an engine for real-time ray tracing of procedural geometry. Its motivation is the current lack of mid-level abstraction tools for scenes with primitives involving intersection shaders. Those scenes impose strict engine design choices, since they need flexibility in the shader table setup. Proceduray aims to provide a fair tradeoff between that flexibility and productivity. It also aims to be didactic. Shader table behaviour can be very confusing because parameters for indexing it come from different parts of a system, involving both host and device code. This is different in essence than ray tracing triangle meshes (which uses a builtin intersection shader for all objects) or rendering with the traditional graphics or compute pipelines.
+        
+### Novello, Silva, Schardong, Schirmer, Lopes, Velho, [Neural Implicit Surfaces in Higher Dimension](https://dsilvavinicius.github.io/neural_implicit_surfaces_in_higher_dimension/), Arxiv.
 
 </td>
 </tr>
+
+<tr>
+<td markdown="1">
+
+<a href="figs/i3d.JPEG"><img src="figs/i3d.JPEG"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Schardong, Schirmer, Lopes, Velho, [Differential Geometry in Neural Implicits](https://dsilvavinicius.github.io/differential_geometry_in_neural_implicits/), Arxiv.
+
+</td>
+</tr>
+
 </table>
-
-# Selected Publications
 
 ## 2021
 
@@ -272,4 +280,41 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 </tr>
 
+</table>
+
+# Projects
+
+<table>
+<tr>
+<td markdown="1">
+
+
+&nbsp; | &nbsp;
+--- | ---
+<a href="figs/highres/rayvr_project1.jpg"><img src="figs/compressed/rayvr_project1.jpg"/></a> | <a href="figs/highres/rayvr_project2.png"><img src="figs/compressed/rayvr_project2.png"/></a>
+<a href="figs/highres/rayvr_project3.jpg"><img src="figs/compressed/rayvr_project3.jpg"/></a> | <a href="figs/highres/rayvr_project4.jpg"><img src="figs/compressed/rayvr_project4.jpg"/></a>
+
+</td>
+<td markdown="1" width="60%">
+
+## Ray-VR
+
+### This project investigates the use of recent capabilities of modern GPUs that implement Ray Tracing in real-time. It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction. One of the objectives is to develop new methods for intuitive exploration of landscapes featuring non-trivial geometry and topology.
+
+</td>
+</tr>
+<tr>
+<td markdown="1">
+
+<a href="figs/highres/mandel.png"><img src="figs/compressed/mandel.png"/></a>
+
+</td>
+<td markdown="1" width="60%">
+
+## [Proceduray](https://github.com/dsilvavinicius/Proceduray)
+
+### Proceduray is an engine for real-time ray tracing of procedural geometry. Its motivation is the current lack of mid-level abstraction tools for scenes with primitives involving intersection shaders. Those scenes impose strict engine design choices, since they need flexibility in the shader table setup. Proceduray aims to provide a fair tradeoff between that flexibility and productivity. It also aims to be didactic. Shader table behaviour can be very confusing because parameters for indexing it come from different parts of a system, involving both host and device code. This is different in essence than ray tracing triangle meshes (which uses a builtin intersection shader for all objects) or rendering with the traditional graphics or compute pipelines.
+
+</td>
+</tr>
 </table>
