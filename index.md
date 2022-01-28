@@ -45,7 +45,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
         
-### Silva, Novello, Schardong, Schirmer, Lopes, Velho, [MIP-plicits: Level of Detail Factorization of Neural Implicit Sphere Tracing](https://dsilvavinicius.github.io/mip-plicits/), Arxiv.
+### Silva, Novello, Schardong, Schirmer, Lopes, Velho, [MIP-plicits: Level of Detail Factorization of Neural Implicits Sphere Tracing](https://dsilvavinicius.github.io/mip-plicits/), Arxiv.
 
 </td>
 </tr>
