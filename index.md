@@ -53,7 +53,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 <tr>
 <td markdown="1">
 
-<a href="figs/i4d.JPEG"><img src="figs/i4d.JPEG"/></a>
+<a href="figs/i4d.jpg"><img src="figs/i4d.jpg"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -66,7 +66,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 <tr>
 <td markdown="1">
 
-<a href="figs/i3d.JPEG"><img src="figs/i3d.JPEG"/></a>
+<a href="figs/i3d.jpg"><img src="figs/i3d.jpg"/></a>
 
 </td>
 <td markdown="1" width="60%">
