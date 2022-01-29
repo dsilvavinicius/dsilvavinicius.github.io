@@ -33,6 +33,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 
 # Selected Publications
 
+<!--
 ## 2022
 
 <table>
@@ -77,6 +78,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </tr>
 
 </table>
+-->
 
 ## 2021
 
