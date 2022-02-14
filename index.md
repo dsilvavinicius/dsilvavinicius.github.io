@@ -87,7 +87,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 <tr>
 <td markdown="1">
 
-<a href="figs/highres/julia_cut.png"><img src="figs/compressed/julia_cut.png"/></a>
+<a href="figs/poincare_grid.png"><img src="figs/poincare_grid.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -106,6 +106,19 @@ My research interests are mostly related with real-time Computer Graphics, Games
 <td markdown="1" width="60%">
         
 ### Silva, Velho, [Ray-VR: Ray Tracing Virtual Reality in Falcor](https://gtc21.event.nvidia.com/media/Ray-VR%3A%20Ray%20Tracing%20Virtual%20Reality%20in%20Falcor%20%5BP31198%5D/1_5ji4asvk), GPU Technology Conference (GTC) 2021.
+
+</td>
+</tr>
+
+<tr>
+<td markdown="1">
+
+<a href="figs/highres/julia_cut.png"><img src="figs/compressed/julia_cut.png"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Velho, Belolipetsky [How to see the eight Thurston geometries](https://www.doi.org/10.21711/217504322021/em372), Ensaios Matemáticos, Sociedade Brasileira de Matemática.
 
 </td>
 </tr>
@@ -299,7 +312,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
 
-## Ray-VR
+## [Ray-VR](https://www.visgraf.impa.br/ray-vr/)
 
 ### This project investigates the use of recent capabilities of modern GPUs that implement Ray Tracing in real-time. It combines those features with Virtual Reality to explore new forms of immersive visualization and interaction. One of the objectives is to develop new methods for intuitive exploration of landscapes featuring non-trivial geometry and topology.
 
