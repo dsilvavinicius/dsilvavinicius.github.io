@@ -87,7 +87,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 <tr>
 <td markdown="1">
 
-<a href="figs/poincare_grid.png"><img src="figs/poincare_grid.png"/></a>
+<a href="figs/highres/julia_cut.png"><img src="figs/compressed/julia_cut.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
@@ -113,7 +113,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 <tr>
 <td markdown="1">
 
-<a href="figs/highres/julia_cut.png"><img src="figs/compressed/julia_cut.png"/></a>
+<a href="figs/poincare_grid.png"><img src="figs/poincare_grid.png"/></a>
 
 </td>
 <td markdown="1" width="60%">
