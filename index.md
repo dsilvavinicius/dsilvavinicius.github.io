@@ -45,7 +45,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Velho, [GPU Ray Tracing in Non-Euclidean Spaces]([figs/highres/rayvr_project4.jpg](https://t.co/UTyokxpFtm)), Morgan & Claypool Publishers.
+### Novello, Silva, Velho, [GPU Ray Tracing in Non-Euclidean Spaces](https://doi.org/10.2200/S01164ED1V01Y202202VCP034), Synthesis Lectures on Visual Computing - March 2022, Morgan & Claypool Publishers.
 
 </td>
 </tr>
