@@ -33,11 +33,24 @@ My research interests are mostly related with real-time Computer Graphics, Games
 
 # Selected Publications
 
-<!--
 ## 2022
 
 <table>
 
+<tr>
+<td markdown="1">
+
+<a href="figs/highres/rayvr_project4.jpg"><img src="figs/highres/rayvr_project4.jpg"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Velho, [GPU Ray Tracing in Non-Euclidean Spaces]([figs/highres/rayvr_project4.jpg](https://t.co/UTyokxpFtm)), Morgan & Claypool Publishers.
+
+</td>
+</tr>
+
+<!--
 <tr>
 <td markdown="1">
 
@@ -76,9 +89,10 @@ My research interests are mostly related with real-time Computer Graphics, Games
 
 </td>
 </tr>
+-->
 
 </table>
--->
+
 
 ## 2021
 
