@@ -83,6 +83,19 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 <tr>
 <td markdown="1">
 
+<a href="figs/mr-net-imaging.jpg"><img src="figs/mr-net-imaging.jpg"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Paz, Novello, Silva, Schardong, Schirmer, Chagas, Lopes, Velho, [Multiresolution Neural Networks for Imaging](https://visgraf.github.io/mrnet-img/), Conference on Graphics, Patterns and Images, 35. (SIBGRAPI).
+
+</td>
+</tr>
+
+<tr>
+<td markdown="1">
+
 <a href="figs/highres/rayvr_project4.jpg"><img src="figs/highres/rayvr_project4.jpg"/></a>
 
 </td>
