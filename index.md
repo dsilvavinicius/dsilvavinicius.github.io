@@ -16,11 +16,13 @@
 </td>
 <td markdown="1" style="text-align: justify" width="70%">
 
-I'm a Researcher in my second Postdoc at [PUC-Rio](https://www.puc-rio.br/english/ "PUC-Rio's Homepage"), supervised by [Hélio Lopes](http://www-di.inf.puc-rio.br/~lopes/ "Hélio Lopes's Homepage").
+I'm a Researcher at [Tecgraf](https://www.tecgraf.puc-rio.br/ "Tecgraf's Homepage"), working on the Research Group lead by professor [Alberto Raposo](http://www.inf.puc-rio.br/en/teacher/@alberto-barbosa-raposo).
+
+Previously, I was in my second Postdoc at the [Information Technology Department of PUC-Rio](http://www.inf.puc-rio.br/en/di/), supervised by [Hélio Lopes](http://www-di.inf.puc-rio.br/~lopes/ "Hélio Lopes's Homepage").
 
 My first Postdoc was at [IMPA](https://impa.br/en_US/ "IMPA's Homepage"), supervised by [Luiz Velho](http://lvelho.impa.br/ "Luiz Velho's Homepage").
 
-My research interests are mostly related with real-time Computer Graphics, Games, Virtual Reality and Machine Learning. My current focus is Real-time Ray Tracing and its applications on Procedural Geometry, Neural Implicits, Non-euclidean spaces, and Virtual Reality. I also work with R&D in real-world problems involving Data Science and Machine Learning.
+My research interests are mostly related with real-time Computer Graphics, Machine Learning, Games, and Virtual Reality. My current focus is neural representations for real-time Computer Graphics, particularly Neural Implicit Representations.
 
 ---
 **dsilva --dot-- vinicius --at-- gmail --dot-- com**
@@ -36,19 +38,6 @@ My research interests are mostly related with real-time Computer Graphics, Games
 ## 2022
 
 <table>
-
-<tr>
-<td markdown="1">
-
-<a href="figs/highres/rayvr_project4.jpg"><img src="figs/highres/rayvr_project4.jpg"/></a>
-
-</td>
-<td markdown="1" width="60%">
-        
-### Novello, Silva, Velho, [GPU Ray Tracing in Non-Euclidean Spaces](https://doi.org/10.2200/S01164ED1V01Y202202VCP034), Synthesis Lectures on Visual Computing, Morgan & Claypool Publishers.
-
-</td>
-</tr>
 
 <!--
 <tr>
@@ -76,6 +65,7 @@ My research interests are mostly related with real-time Computer Graphics, Games
 
 </td>
 </tr>
+-->
 
 <tr>
 <td markdown="1">
@@ -85,11 +75,23 @@ My research interests are mostly related with real-time Computer Graphics, Games
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Schardong, Schirmer, Lopes, Velho, [Differential Geometry in Neural Implicits](https://dsilvavinicius.github.io/differential_geometry_in_neural_implicits/), Arxiv.
+### Novello, Silva, Schardong, Schirmer, Lopes, Velho, [Exploring Differential Geometry in Neural Implicits](https://dsilvavinicius.github.io/differential_geometry_in_neural_implicits/), Computers & Graphics.
 
 </td>
 </tr>
--->
+
+<tr>
+<td markdown="1">
+
+<a href="figs/highres/rayvr_project4.jpg"><img src="figs/highres/rayvr_project4.jpg"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Velho, [GPU Ray Tracing in Non-Euclidean Spaces](https://doi.org/10.2200/S01164ED1V01Y202202VCP034), Synthesis Lectures on Visual Computing, Morgan & Claypool Publishers.
+
+</td>
+</tr>
 
 </table>
 
