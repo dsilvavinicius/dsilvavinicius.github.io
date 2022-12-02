@@ -16,7 +16,7 @@
 </td>
 <td markdown="1" style="text-align: justify" width="70%">
 
-I'm a Researcher at [Tecgraf](https://www.tecgraf.puc-rio.br/ "Tecgraf's Homepage"), working on the Research Group lead by professor [Alberto Raposo](http://www.inf.puc-rio.br/en/teacher/@alberto-barbosa-raposo).
+I'm a Researcher at [Tecgraf](https://www.tecgraf.puc-rio.br/ "Tecgraf's Homepage"), working on the research group led by professor [Alberto Raposo](http://www.inf.puc-rio.br/en/teacher/@alberto-barbosa-raposo).
 
 Previously, I was in my second Postdoc at the [Information Technology Department of PUC-Rio](http://www.inf.puc-rio.br/en/di/), supervised by [Hélio Lopes](http://www-di.inf.puc-rio.br/~lopes/ "Hélio Lopes's Homepage").
 
