@@ -172,12 +172,25 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 <tr>
 <td markdown="1">
 
+<a href="figs/visualizing_thurston_geometries.png"><img src="figs/visualizing_thurston_geometries.png"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Novello, Silva, Velho, [Visualizing Thurston's Geometries](https://impa.br/wp-content/uploads/2022/01/33CBM19-eBook.pdf), IMPA.
+
+</td>
+</tr>
+
+<tr>
+<td markdown="1">
+
 <a href="figs/highres/nil_etc.jpg"><img src="figs/compressed/nil_etc.jpg"/></a>
 
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Velho, [Intrinsic Visualization in the Thurston’s Geometries](https://www.youtube.com/playlist?list=PLvvfpeSf1IRK29lLgm0QGIDalVzpgHv5t), 33rd Brazilian Mathematics Colloquium. Book to appear.
+### Novello, Silva, Velho, [Intrinsic Visualization in the Thurston’s Geometries](https://www.youtube.com/playlist?list=PLvvfpeSf1IRK29lLgm0QGIDalVzpgHv5t), 33rd Brazilian Mathematics Colloquium.
 
 </td>
 </tr>
