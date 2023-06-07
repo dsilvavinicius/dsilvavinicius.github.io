@@ -35,6 +35,23 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 
 # Selected Publications
 
+## 2023
+
+<table>
+<tr>
+<td markdown="1">
+
+<a href="figs/mr-net-2023.png"><img src="figs/mr-net-2023.png"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Paz, Perazzo, Novello, Schardong, Schirmer, Silva, Yukimura, Chagas, Lopes, Velho, [MR-Net: Multiresolution sinusoidal neural networks](https://doi.org/10.1016/j.cag.2023.05.014), Computers & Graphics.
+
+</td>
+</tr>
+</table>
+
 ## 2022
 
 <table>
