@@ -46,7 +46,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Schardong, Schirmer, Lopes, Velho, [Neural Implicit Surface Evolution](https://dsilvavinicius.github.io/nise/) ICCV 23 (to appear).
+### Novello, Silva, Schardong, Schirmer, Lopes, Velho, [Neural Implicit Surface Evolution](https://dsilvavinicius.github.io/nise/), ICCV 23 (to appear).
 
 </td>
 </tr>
