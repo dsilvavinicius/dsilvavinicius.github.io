@@ -215,7 +215,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 </td>
 <td markdown="1" width="60%">
         
-### Schirmer, Schardong, Silva, Novello, Yukimura, Magalhaes, Paz, Lopes, Velho, [Neural Networks for Implicit Representations of 3D Geometry](http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45DPE5L), [Tutorial](https://youtu.be/tvy4IGA_iF8), SIBGRAPI 2021.
+### Schirmer, Schardong, Silva, Novello, Yukimura, Magalhaes, Paz, Lopes, Velho, [Neural Networks for Implicit Representations of 3D Geometry](http://sibgrapi.sid.inpe.br/rep/8JMKD3MGPEW34M/45DPE5L), [DOI:](https://doi.org/10.1109/sibgrapi54419.2021.00012), [Tutorial](https://youtu.be/tvy4IGA_iF8), SIBGRAPI 2021.
 
 </td>
 </tr>
