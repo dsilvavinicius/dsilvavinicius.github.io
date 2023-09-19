@@ -38,7 +38,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 ## 2023
 
 <table>
-<!-- <tr>
+<tr>
 <td markdown="1">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8NqwLkhaRBU?si=BkITJqzadUz3WfZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 
 </td>
 </tr>
-<tr> -->
+<tr> 
 <td markdown="1">
 
 <a href="figs/mr-net-2023.png"><img src="figs/mr-net-2023.png"/></a>
