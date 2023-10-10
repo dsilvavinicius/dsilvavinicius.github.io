@@ -25,7 +25,7 @@ My first Postdoc was at [IMPA](https://impa.br/en_US/ "IMPA's Homepage"), superv
 My research interests are mostly related with real-time Computer Graphics, Machine Learning, Games, and Virtual Reality. My current focus is neural representations for real-time Computer Graphics, particularly Neural Implicit Representations.
 
 ---
-**dsilva --dot-- vinicius --at-- gmail --dot-- com**
+**viniciuss --at-- tecgraf --dot-- puc-rio --dot-- br**
 
 ---
 
