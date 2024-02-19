@@ -41,7 +41,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 <tr>
 <td markdown="1">
 
-<iframe width="400" src="https://www.youtube.com/embed/8NqwLkhaRBU?si=BkITJqzadUz3WfZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/8NqwLkhaRBU?si=BkITJqzadUz3WfZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </td>
 <td markdown="1" width="60%">
