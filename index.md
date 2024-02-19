@@ -46,7 +46,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 </td>
 <td markdown="1" width="60%">
         
-### Novello, Silva, Schardong, Schirmer, Lopes, Velho, [Neural Implicit Surface Evolution](https://dsilvavinicius.github.io/nise/), ICCV 23 (to appear).
+### Novello, Silva, Schardong, Schirmer, Lopes, Velho, [Neural Implicit Surface Evolution](https://dsilvavinicius.github.io/nise/), ICCV 2023.
 
 </td>
 </tr>
@@ -62,6 +62,31 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 
 </td>
 </tr>
+<tr>
+<td markdown="1">
+
+<a href="figs/dragon_min00.png"><img src="figs/dragon_min00.png"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Schirmer, Novello, Silva, Schardong, Lopes, Velho, [How to train your (neural) dragon](https://www.lschirmer.com/sibgrapi23), SIBGRAPI 2023.
+
+</td>
+</tr>
+<tr>
+<td markdown="1">
+
+<a href="figs/vr_dance_tracks_via_skeletal_animation.png"><img src="figs/vr_dance_tracks_via_skeletal_animation.png"/></a>
+
+</td>
+<td markdown="1" width="60%">
+        
+### Mastra, Schirmer, Raposo, Silva, [Virtual Reality Dance Tracks from Skeletal Animations](https://doi.org/10.1145/3625008.3625035), SVR 2023.
+
+</td>
+</tr>
+
 </table>
 
 ## 2022
