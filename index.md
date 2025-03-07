@@ -41,7 +41,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 <tr>
 <td markdown="1">
 
-<video width="400" height="315" controls>
+<video width="400" height="400" autoplay loop controls>
   <source src="figs/teaser_improved_twitter.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
