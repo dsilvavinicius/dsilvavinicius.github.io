@@ -41,7 +41,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 <tr>
 <td markdown="1">
 
-<video width="400" height="400" autoplay loop controls>
+<video width="400" height="400" autoplay loop>
   <source src="figs/teaser_improved_twitter.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -49,7 +49,7 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 </td>
 <td markdown="1" width="60%">
         
-### Schardong, Novello, Paz, Medvedev, Silva, Velho, Gonçalves [Neural Implicit Morphing of Face Images](https://schardong.github.io/ifmorph/), CVPR 2024.
+### Schardong, Novello, Paz, Medvedev, Silva, Velho, Gonçalves, [Neural Implicit Morphing of Face Images](https://schardong.github.io/ifmorph/), CVPR 2024.
 
 </td>
 </tr>
