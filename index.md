@@ -6,10 +6,7 @@
 
 <div markdown="1" align=center>
 
-[<img src="figs/compressed/twitter.png" width="32">](https://twitter.com/dsilvavinicius)
-[<img src="figs/compressed/youtube.png" width="32">](https://www.youtube.com/dsilvavinicius)
-[<img src="figs/compressed/linkedin.png" width="32"> ](https://www.linkedin.com/in/dsilvavinicius/?locale=en_US) 
-[<img src="figs/compressed/researchgate.png" width="32"> ](https://www.researchgate.net/profile/Vinicius_Silva50) 
+[Social](https://linktr.ee/curious_biped)
 
 </div>
 
@@ -34,6 +31,21 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 </table>
 
 # Selected Publications
+
+## 2025
+
+<table> <tr> <td>
+
+<a href="figs/3DGS_mainframe.png"><img src="figs/3DGS_mainframe.png"/></a>
+
+</td> <td markdown="1" width="60%">
+
+### Matias, Perazzo, Silva, Raposo, Velho, Paiva, Novello, [From Volume Rendering to 3D Gaussian Splatting: Theory and Applications](https://arxiv.org/abs/2510.18101), SIBGRAPI 2025.
+</td> </tr> </table>
+
+<table>
+<tr>
+<td>
 
 ## 2024
 
