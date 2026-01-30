@@ -34,18 +34,21 @@ My research interests are mostly related with real-time Computer Graphics, Machi
 
 ## 2025
 
-<table> <tr> <td>
-
-<a href="figs/3DGS_mainframe.png"><img src="figs/3DGS_mainframe.png"/></a>
-
-</td> <td markdown="1" width="60%">
-
-### Matias, Perazzo, Silva, Raposo, Velho, Paiva, Novello, [From Volume Rendering to 3D Gaussian Splatting: Theory and Applications](https://arxiv.org/abs/2510.18101), SIBGRAPI 2025.
-</td> </tr> </table>
-
 <table>
 <tr>
 <td>
+
+<a href="figs/3DGS_mainframe.png"><img src="figs/3DGS_mainframe.png"/></a>
+
+</td>
+
+<td markdown="1" width="60%">
+
+### Matias, Perazzo, Silva, Raposo, Velho, Paiva, Novello, [From Volume Rendering to 3D Gaussian Splatting: Theory and Applications](https://arxiv.org/abs/2510.18101), SIBGRAPI 2025.
+
+</td>
+</tr>
+</table>
 
 ## 2024
 
