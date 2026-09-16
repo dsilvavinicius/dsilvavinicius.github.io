@@ -1,0 +1,24 @@
+- name: Ray-VR
+  url: https://www.visgraf.impa.br/ray-vr/
+  images:
+    - figs/compressed/rayvr_project1.jpg
+    - figs/compressed/rayvr_project2.png
+    - figs/compressed/rayvr_project3.jpg
+    - figs/compressed/rayvr_project4.jpg
+  description: >-
+    Ray-VR investigates the use of recent capabilities of modern GPUs that implement ray tracing
+    in real time. It combines those features with virtual reality to explore new forms of immersive
+    visualization and interaction — in particular, new methods for intuitive exploration of
+    landscapes featuring non-trivial geometry and topology.
+
+- name: Proceduray
+  url: https://github.com/dsilvavinicius/Proceduray
+  images:
+    - figs/compressed/mandel.png
+  description: >-
+    Proceduray is an engine for real-time ray tracing of procedural geometry. Its motivation is the
+    current lack of mid-level abstraction tools for scenes with primitives involving intersection
+    shaders, which impose strict engine design choices because they need flexibility in the shader
+    table setup. Proceduray aims for a fair tradeoff between that flexibility and productivity, and
+    to be didactic: shader table behaviour is confusing because the parameters indexing it come from
+    different parts of a system, spanning both host and device code.

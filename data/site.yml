@@ -1,0 +1,33 @@
+title: Vinícius da Silva
+tagline: Curious Biped
+url: https://dsilvavinicius.github.io
+email: viniciuss@tecgraf.puc-rio.br
+eyebrow: Researcher · Tecgraf / PUC-Rio · Rio de Janeiro
+
+description: >-
+  Researcher at Tecgraf / PUC-Rio working on real-time computer graphics,
+  neural implicit representations, games and virtual reality.
+
+portrait: figs/photo.png
+
+# Inline [text](url) links are turned into real links; everything else is plain text.
+bio:
+  - >-
+    I'm a Researcher at [Tecgraf](https://www.tecgraf.puc-rio.br/). My research interests are
+    mostly related to real-time Computer Graphics, Machine Learning, Games and Virtual Reality.
+    My current focus is neural representations for real-time Computer Graphics, particularly
+    Neural Implicit Representations.
+
+affiliations:
+  - Tecgraf / PUC-Rio
+  - Postdoc, DI PUC-Rio
+  - Postdoc, IMPA
+  - PhD, UFRJ
+
+links:
+  - text: Scholar
+    url: https://scholar.google.com/citations?user=UMtZNSsAAAAJ
+  - text: GitHub
+    url: https://github.com/dsilvavinicius
+  - text: Elsewhere
+    url: https://linktr.ee/curious_biped
