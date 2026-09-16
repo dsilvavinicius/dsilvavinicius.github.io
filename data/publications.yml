@@ -62,8 +62,9 @@
   title: Neural Implicit Surface Evolution
   authors: "Novello, [Silva], Schardong, Schirmer, Lopes, Velho"
   url: https://dsilvavinicius.github.io/nise/
-  # Streamed from the NISE project page (same domain), which already hosts it.
-  video: https://dsilvavinicius.github.io/nise/assets/teaser_720.mp4
+  # Re-encoded from the NISE project page's teaser_720.mp4 for the size it renders at.
+  video: figs/nise_teaser.mp4
+  poster: figs/nise_teaser_poster.jpg
   links:
     - text: Video
       url: https://www.youtube.com/watch?v=8NqwLkhaRBU
